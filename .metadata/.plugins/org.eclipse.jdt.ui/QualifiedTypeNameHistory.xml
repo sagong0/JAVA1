@@ -8,4 +8,9 @@
 <fullyQualifiedTypeName name="sec06_exam05.package1.A"/>
 <fullyQualifiedTypeName name="sec01.exam07.pack01.A"/>
 <fullyQualifiedTypeName name="sec01.exam04.RemoteControl"/>
+<fullyQualifiedTypeName name="sec02_exam01.A.B"/>
+<fullyQualifiedTypeName name="sec02_exam01.A.C"/>
+<fullyQualifiedTypeName name="sec02_exam05.Outter.Nested"/>
+<fullyQualifiedTypeName name="sec02_exam06.Button.OnClickListener"/>
+<fullyQualifiedTypeName name="sec02_exam07.Button.OnClicklistener"/>
 </qualifiedTypeNameHistroy>
