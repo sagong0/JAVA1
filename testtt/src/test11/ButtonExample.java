@@ -1,0 +1,13 @@
+package test11;
+
+public class ButtonExample {
+
+	public static void main(String[] args) {
+		Button btn = new Button();
+		btn.onClickSetListener(new CallListener());
+		btn.touch();
+		
+		btn.onClickSetListener(new MessageListener());
+		btn.touch();
+	}
+}

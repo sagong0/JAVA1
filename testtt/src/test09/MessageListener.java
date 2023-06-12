@@ -1,0 +1,11 @@
+package test09;
+
+// 중첩인터페이스라서 경로 표시 해야함.
+public class MessageListener implements Button.OnClickListener{
+
+	@Override
+	public void onClick() {
+		System.out.println("메세지를 보냅니다 ~ ");
+	}
+
+}
