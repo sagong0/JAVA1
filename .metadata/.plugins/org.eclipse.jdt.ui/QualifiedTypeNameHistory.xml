@@ -13,4 +13,10 @@
 <fullyQualifiedTypeName name="sec02_exam05.Outter.Nested"/>
 <fullyQualifiedTypeName name="sec02_exam06.Button.OnClickListener"/>
 <fullyQualifiedTypeName name="sec02_exam07.Button.OnClicklistener"/>
+<fullyQualifiedTypeName name="test06.Car.Tire"/>
+<fullyQualifiedTypeName name="test06.Car.Engine"/>
+<fullyQualifiedTypeName name="test08.Button.OnClickListener"/>
+<fullyQualifiedTypeName name="test09.Button.OnClickListener"/>
+<fullyQualifiedTypeName name="test10.Button.OnClickListener"/>
+<fullyQualifiedTypeName name="test11.Button.OnClickListener"/>
 </qualifiedTypeNameHistroy>
