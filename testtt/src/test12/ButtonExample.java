@@ -9,5 +9,5 @@ public class ButtonExample {
 		
 		myButton.setOnClickListener(new CallListener());
 		myButton.touch();
-	}
+	}                     
 }
